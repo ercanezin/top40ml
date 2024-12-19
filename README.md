@@ -1,4 +1,4 @@
-CREDIT: This list has been taken from an x.com account where the author shared the following list and I provided markdown version for easy access. All credit goes to [@skillissue99](https://x.com/skillissues99)
+CREDIT: This list has been taken from an x.com account where the author shared the following list originally in https://arxiv.org/abs/2412.12121v1 and I provided a markdown version for easy access. All credit goes to [@skillissue99](https://x.com/skillissues99) and authors on arxiv.
 
 Top 40 papers: “… AI research continues to focus on large language models (LLMs) but is increasingly exploring alternatives to the transformer architecture, including diffusion and state space models.
 
